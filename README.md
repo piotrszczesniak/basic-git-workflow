@@ -1,1 +1,1 @@
-This git repository will show you a baisc git workflow for individuals or small teams.
+This git repository will show you a basic git workflow for individuals or small teams.
